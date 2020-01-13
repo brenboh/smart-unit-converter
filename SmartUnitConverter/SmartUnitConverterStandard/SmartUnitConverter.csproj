@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageId>smart-unit-converter</PackageId>
+    <Authors>Brendan Bohay</Authors>
+    <Description>.NET Standard library for coverting unit of data storage, time and currency in a smarter way.</Description>
+    <PackageLicenseUrl>https://github.com/brenboh/smart-unit-converter/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageVersion>1.0.1</PackageVersion>
+  </PropertyGroup>
+
+</Project>

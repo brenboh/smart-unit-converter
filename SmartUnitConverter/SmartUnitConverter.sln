@@ -1,7 +1,7 @@
 
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartUnitConverter", "SmartUnitConverter\SmartUnitConverter.csproj", "{2757D9AE-6294-43D5-AAEE-6C5301A8C311}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartUnitConverter", "SmartUnitConverterStandard\SmartUnitConverter.csproj", "{C1BD35D3-5132-4925-9533-3D54CC61EFD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -9,9 +9,9 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{2757D9AE-6294-43D5-AAEE-6C5301A8C311}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{2757D9AE-6294-43D5-AAEE-6C5301A8C311}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{2757D9AE-6294-43D5-AAEE-6C5301A8C311}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{2757D9AE-6294-43D5-AAEE-6C5301A8C311}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1BD35D3-5132-4925-9533-3D54CC61EFD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1BD35D3-5132-4925-9533-3D54CC61EFD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1BD35D3-5132-4925-9533-3D54CC61EFD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1BD35D3-5132-4925-9533-3D54CC61EFD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
